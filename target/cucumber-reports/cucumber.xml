@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="53.147" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="User Management" name="Create and verify a new user" time="53">
+<system-out><![CDATA[
+Given I am on the OrangeHRM login page......................................passed
+When I login with valid credentials.........................................passed
+Then I should be redirected to the dashboard................................passed
+Given I navigate to Admin User Management page..............................passed
+When I create a new user with the following details:........................passed
+Then the user should be created successfully................................passed
+When I search for the user by username "testuser_<timestamp>"...............passed
+Then the user should appear in the Records Found table......................passed
+And the user details should be correct......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
