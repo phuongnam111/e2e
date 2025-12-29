@@ -7,7 +7,10 @@ import org.slf4j.LoggerFactory;
 import utils.Locators;
 
 /**
- * Page Object for OrangeHRM Dashboard Page
+ * POM off OrangeHRM Dashboard Page
+ * @author Phuong Nam v
+ * @version 1.0
+ * @since 2025-12-27
  */
 public class DashboardPage extends BasePage {
     

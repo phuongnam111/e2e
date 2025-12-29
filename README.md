@@ -134,7 +134,6 @@ Open the HTML report in your browser:
 
 ```bash
 open target/cucumber-reports/cucumber.html    # macOS
-start target/cucumber-reports/cucumber.html   # Windows
 ```
 
 ## 🎯 Test Scenarios
@@ -228,7 +227,7 @@ public class NewPage extends BasePage {
 
 ## 🎥 Demo Video
 
-A demo video showing test execution is available at: [link-to-video]
+A demo video showing : [https://drive.google.com/drive/folders/19gTL6gcDh4TpWeS-DVShrgnVGY8rUZD_?usp=sharing]
 
 ## 👤 Author
 
